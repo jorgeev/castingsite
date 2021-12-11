@@ -1,0 +1,16 @@
+Minimal librarie requiered:
+
+numpy 
+pandas 
+dash 
+xarray 
+jupyter 
+jupyterlab 
+netcdf4 
+hdf5 
+scipy 
+colorcet 
+datashader 
+holoviews 
+plotly
+
